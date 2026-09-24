@@ -47,6 +47,8 @@
   .hero-foot,.site-footer{font-size:12px}
 }
 
+.hero-grid{grid-template-columns:minmax(0,820px)}
+
 /* Final type scale adjustment for headline and supporting text. */
 .hero h1{font-size:clamp(28px,3.4vw,46px)}
 .section-heading h2{font-size:clamp(30px,3.2vw,42px)}
