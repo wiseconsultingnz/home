@@ -48,6 +48,8 @@
 }
 
 .hero-grid{grid-template-columns:minmax(0,820px)}
+.site-header{position:relative;background:var(--navy)}
+.profile-avatar{display:block;object-fit:cover;object-position:center 38%}
 
 /* Final type scale adjustment for headline and supporting text. */
 .hero h1{font-size:clamp(28px,3.4vw,46px)}
